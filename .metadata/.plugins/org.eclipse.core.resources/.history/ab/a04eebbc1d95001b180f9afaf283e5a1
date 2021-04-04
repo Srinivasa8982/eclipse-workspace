@@ -6,10 +6,6 @@ public class raj {
 
 		
 		System.out.println("Hi Raj");
-		System.out.println("Hi Raj");
-		System.out.println("Hi Raj");
-		System.out.println("Hi Raj");
-		System.out.println("Hi Raj");
 	}
 
 }
