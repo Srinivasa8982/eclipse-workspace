@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ram.java&apos; to &apos;sri/src/sri&apos;&#x0D;&#x0A;- Original project: &apos;sri&apos;&#x0D;&#x0A;- Destination element: &apos;sri/src/sri&apos;&#x0D;&#x0A;- Original element: &apos;sri.ram.java&apos;" description="Copy compilation unit" destination="/src&lt;sri" element1="/src&lt;sri{ram.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1614601339184" units="1" version="1.0"/>
+</session>
